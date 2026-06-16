@@ -1,3 +1,5 @@
+//Author: Reyson Feliz
+
 // Ejercicio 3: Clases y objetos
 
 class Persona

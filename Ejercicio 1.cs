@@ -1,3 +1,6 @@
+//Author: Reyson Feliz
+
+
 // Ejercicio 1: Sintaxis básica y variables
 
 class Ejercicio1

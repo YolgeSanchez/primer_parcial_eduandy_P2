@@ -1,3 +1,6 @@
+//Author: Reyson Feliz
+
+
 // Ejercicio 5: Polimorfismo
 
 public abstract class Animal
