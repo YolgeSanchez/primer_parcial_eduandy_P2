@@ -6,6 +6,6 @@
 
 | Nombre                          | Matrícula |
 | ------------------------------- | --------- |
-| Keinel Feliz                    | -         |
+| Keinel José feliz vasquez       | 2025-1384 |
 | Jorge Raynieri Sanchez Pichardo | 2025-1023 |
 | Reyson Armando Feliz Santana    | 2025-1386 |
